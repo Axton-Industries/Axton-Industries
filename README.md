@@ -8,13 +8,13 @@ Interested in applying rigorous statistical and computational methods to complex
 ## 🛠 Technical Competencies
 
 **Programming Languages:**  
-Python · SQL · Linux  
+Python . R · SQL · Linux  
 
 **Scientific & Data Computing:**  
 NumPy · pandas · scikit-learn · statistical inference · hypothesis testing · data preprocessing · model validation  
 
 **Systems & Tools:**  
-Git · Jupyter · Version-controlled workflows · Reproducible analysis  
+Git · Jupyter · PowerBI
 
 ---
 
