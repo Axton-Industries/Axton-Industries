@@ -18,16 +18,6 @@ Git · Jupyter · Version-controlled workflows · Reproducible analysis
 
 ---
 
-## 🔬 Selected Technical Work
-
-- **Large-Scale Data Pipeline for [Project Name]:** Processed X million rows of structured data, implemented efficient preprocessing workflows, and performed statistical validation to ensure accuracy.  
-- **Predictive Modeling & Statistical Analysis:** Built machine learning models to predict [phenomenon], achieving X% accuracy while maintaining reproducibility and scalability.  
-- **Simulation Study on [Topic]:** Conducted computational experiments to analyze [scientific or technical phenomenon], applying hypothesis testing and statistical inference to draw conclusions.  
-
-*(Add 1–2 more projects if you have relevant research or lab experience.)*
-
----
-
 ## 📫 Contact
 
 - LinkedIn: [www.linkedin.com/in/adrián-moreno-garcía](https://www.linkedin.com/in/adrián-moreno-garcía)  
